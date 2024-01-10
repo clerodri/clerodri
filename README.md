@@ -1,4 +1,4 @@
-[![MasterHead]](https://miro.medium.com/v2/resize:fit:800/1*zzTEyTwyy7jXibtqVWg84Q.gif)(https://github.com/clerodri)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:800/1*zzTEyTwyy7jXibtqVWg84Q.gif)](https://github.com/clerodri)
 <h1 align="center">Hi 👋, I'm Ronaldo Rodriguez</h1>
 <h3 align="center">A passionate android developer from Ecuador</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clerodri&label=Profile%20views&color=0e75b6&style=flat" alt="clerodri" /> </p>
