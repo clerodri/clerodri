@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, Python, PLSQL, Java Core** 
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android, Java, C and SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
