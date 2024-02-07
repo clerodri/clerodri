@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Mobile Apps](https://github.com/clerodri/HoroscopeApp)
 
-- 🌱 I’m currently learning **C++, Python**
+- 🌱 I’m currently learning **C++, Python**, PLSQL**, Java** Core** 
 
 - 💬 Ask me about **Android**
 
