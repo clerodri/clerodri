@@ -3,11 +3,11 @@
 <h3 align="center">A passionate android developer from Ecuador</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clerodri&label=Profile%20views&color=0e75b6&style=flat" alt="clerodri" /> </p>
 
-- 🔭 I’m currently working on [Mobile Apps](https://github.com/clerodri/HoroscopeApp)
+- 🔭 I’m currently working on Full Stack Development (React + Django)
 
-- 🌱 I’m currently learning **C++, Python, PLSQL, Java Core, CI/CD, Testing** 
+- 🌱 I’m currently learning React, Node.js and Django framework. 
 
-- 💬 Ask me about **Android, Java, C and SQL**
+- 💬 Ask me about **Android, Java, C, Java Core, and PLSQL/SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
