@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning React, Node.js and Django framework. 
 
-- 💬 Ask me about **Android, Java, C, Java Core, and PLSQL/SQL**
+- 💬 Ask me about **Dota<3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
