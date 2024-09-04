@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif)](https://github.com/clerodri)
 <h1 align="center">Hi 👋, I'm Ronaldo Rodriguez</h1>
-<h3 align="center">A passionate android developer from Ecuador</h3>
+<h3 align="center">A passionate software developer from Ecuador</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clerodri&label=Profile%20views&color=0e75b6&style=flat" alt="clerodri" /> </p>
 
 - 🔭 I’m currently working on Full Stack Development (React + Django) - BOOTCAMP PROGRAM FOR FULL STACK  2024 - ESPOL
