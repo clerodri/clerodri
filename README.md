@@ -3,11 +3,7 @@
 <h3 align="center">A passionate software developer from Ecuador</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clerodri&label=Profile%20views&color=0e75b6&style=flat" alt="clerodri" /> </p>
 
-- 🔭 I’m currently working on Full Stack Development (React + Django) - BOOTCAMP PROGRAM FOR FULL STACK  2024 - ESPOL
-
-- 🌱 I’m currently learning React, Node.js and Django framework. 
-
-- 💬 Ask me about **Dota<3**
+- 🔭 I’m currently working on Android Development && Full Stack Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
