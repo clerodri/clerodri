@@ -36,82 +36,6 @@ Me apasionan los desafíos y nunca le huyo a proyectos complejos. Mi filosofía 
 
 **¡Siempre abierto a nuevas oportunidades, colaboraciones y proyectos emocionantes!** 🚀
 
-
-## 🚀 Personal Projects
-
-### 📱 Mobile Applications
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/clerodri/Binnacle" target="_blank">
-        <img src="capturas/images.png" alt="Binnacle" width="100%"/><br>
-        <strong>Binnacle - Security Management System</strong><br>
-        Modern mobile application built with Jetpack Compose for security management in gated communities. Features GPS tracking, incident reporting, and real-time notifications.<br>
-        <em>Tech: Kotlin, Jetpack Compose, Material 3, Room, Retrofit, Google Maps SDK</em>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/clerodri/KindMoney" target="_blank">
-        <img src="" alt="Kind Money" width="100%"/><br>
-        <strong>Kind Money - Crypto Trading Simulator</strong><br>
-        Cryptocurrency trading simulation app for academic purposes. Cross-platform solution with modern Android development practices.<br>
-        <em>Tech: Kotlin Multiplatform, Jetpack Compose, Material 3, Ktor, Room</em>
-      </a>
-    </td>
-	 <td width="50%">
-      <a href="https://github.com/clerodri/MQespol" target="_blank">
-        <img src="" alt="MQespol" width="100%"/><br>
-        <strong>MQespol - IoT Data Platform</strong><br>
-        MQTT-based application to receive, store, and visualize data from IoT devices in real-time.<br>
-        <em>Tech: MQTT, Web Technologies, Database</em>
-      </a>
-    </td>
-	   <td width="50%">
-      <a href="" target="_blank">
-        <img src="" alt="Coming Soon" width="100%"/><br>
-        <strong>Coming Soon</strong><br>
-        More details coming soon!<br>
-        <em>Tech: TBD</em>
-      </a>
-    </td>
-  </tr>
-</table>
-
-### 🖥️ Backend Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="" target="_blank">
-        <img src="" alt="Coming Soon" width="100%"/><br>
-        <strong>Coming Soon</strong><br>
-        Backend project in development. More details coming soon!<br>
-        <em>Tech: TBD</em>
-      </a>
-    </td>
-    <td width="50%">
-      <!-- Empty slot for future project -->
-    </td>
-  </tr>
-</table>
-
-### 🌐 Frontend Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="" target="_blank">
-        <img src="" alt="Commin Soon" width="100%"/><br>
-        <strong>Coming Soon</strong><br>
-        project in development. More details coming soon!<br>
-      </a>
-    </td>
-    <td width="50%">
-      <!-- Empty slot for future project -->
-    </td>
-  </tr>
-</table>
 ---
 ## 🚀 Personal Projects
 
@@ -121,6 +45,7 @@ Me apasionan los desafíos y nunca le huyo a proyectos complejos. Mi filosofía 
 |---------|-------------|------------|
 | **[Binnacle](https://github.com/clerodri/Binnacle)** | Security management system for gated communities with GPS tracking and real-time notifications | Kotlin, Jetpack Compose, Material 3, Room, Google Maps |
 | **[Kind Money](https://github.com/clerodri/KindMoney)** | Cryptocurrency trading simulator for educational purposes | Kotlin Multiplatform, Compose, Ktor, Room |
+| **[MQespol](https://github.com/clerodri/MQespol)** | IoT data platform for receiving, storing, and visualizing device data | MQTT, Web Technologies |
 
 ### 🖥️ Backend Projects
 
@@ -128,11 +53,12 @@ Me apasionan los desafíos y nunca le huyo a proyectos complejos. Mi filosofía 
 |---------|-------------|------------|
 | **Coming Soon** | Backend project in development | TBD |
 
-### 🌐 Frontend & IoT Projects
+### 🌐 Frontend Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[MQespol](https://github.com/clerodri/MQespol)** | IoT data platform for receiving, storing, and visualizing device data | MQTT, Web Technologies |
+| **Coming Soon** | Backend project in development | TBD |
+
 ---
 
 <h2> My Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"></h2>
