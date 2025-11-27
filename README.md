@@ -4,7 +4,8 @@
 <div align="center">
 <p align="center">
   <em>💻 FullStack Developer<br>
-  📱 Android Developer<br></em>
+  📱 Android Developer<br>
+  🌟 Telematics Engineer</em>
 </p>
 <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clerodri&layout=compact&langs_count=8&theme=algolia"/>
 </div>
