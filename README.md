@@ -96,13 +96,13 @@ Me apasionan los desafíos y nunca le huyo a proyectos complejos. Mi filosofía 
   </tr>
 </table>
 
-### 🌐 Frontend & IoT Projects
+### 🌐 Frontend Projects
 
 <table>
   <tr>
     <td width="50%">
       <a href="" target="_blank">
-        <img src="" alt="MQespol" width="100%"/><br>
+        <img src="" alt="Commin Soon" width="100%"/><br>
         <strong>Coming Soon</strong><br>
         project in development. More details coming soon!<br>
       </a>
@@ -113,7 +113,26 @@ Me apasionan los desafíos y nunca le huyo a proyectos complejos. Mi filosofía 
   </tr>
 </table>
 ---
+## 🚀 Personal Projects
 
+### 📱 Mobile Applications
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Binnacle](https://github.com/clerodri/Binnacle)** | Security management system for gated communities with GPS tracking and real-time notifications | Kotlin, Jetpack Compose, Material 3, Room, Google Maps |
+| **[Kind Money](https://github.com/clerodri/KindMoney)** | Cryptocurrency trading simulator for educational purposes | Kotlin Multiplatform, Compose, Ktor, Room |
+
+### 🖥️ Backend Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Coming Soon** | Backend project in development | TBD |
+
+### 🌐 Frontend & IoT Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[MQespol](https://github.com/clerodri/MQespol)** | IoT data platform for receiving, storing, and visualizing device data | MQTT, Web Technologies |
 ---
 
 <h2> My Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"></h2>
