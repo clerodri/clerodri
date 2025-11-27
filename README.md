@@ -1,6 +1,15 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif)](https://github.com/clerodri)
 <h1 align="center">Hi 👋, I'm Ronaldo Rodriguez</h1>
+
 <h3 align="center">A passionate software developer from Ecuador</h3>
+<div align="center">
+<p align="center">
+  <em>💻 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)<br>
+  📱 Android & Mobile Developer passionate about building modern and engaging mobile apps.</em>
+</p>
+<img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clerodri&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clerodri&label=Profile%20views&color=0e75b6&style=flat" alt="clerodri" /> </p>
 
 - 🔭 I’m currently working on Android Development && Full Stack Development
