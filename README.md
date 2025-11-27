@@ -4,8 +4,9 @@
 <h3 align="center">A passionate software developer from Ecuador</h3>
 <div align="center">
 <p align="center">
-  <em>💻 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)<br>
-  📱 Android & Mobile Developer passionate about building modern and engaging mobile apps.</em>
+  <em>💻 Desarrollo de Aplicaciones Multiplataforma<br>
+  📱 Android Developer <br> 
+	  FullStack Developer.</em>
 </p>
 <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clerodri&layout=compact&langs_count=8&theme=algolia"/>
 </div>
