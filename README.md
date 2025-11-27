@@ -196,7 +196,7 @@ Me apasionan los desafíos y nunca le huyo a proyectos complejos. Mi filosofía 
     <img src="https://img.shields.io/badge/Contact-email-blue?style=flat-square" alt="Email">
   </a>
   &nbsp;•&nbsp;
-  <a href="[www.linkedin.com/in/clerodri](https://www.linkedin.com/in/clerodri/)" target="_blank">
+  <a href="https://www.linkedin.com/in/clerodri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
   </a>
 </p>
