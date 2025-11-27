@@ -51,14 +51,14 @@ Me apasionan los desafíos y nunca le huyo a proyectos complejos. Mi filosofía 
       <a href="https://github.com/clerodri/KindMoney" target="_blank">
         <img src="" alt="Kind Money" width="300px"/><br>
         <strong>Kind Money</strong><br>
-       App de simulación de trading de criptomonedas con fines académicos. Desarrollada con Kotlin Multiplatform, Jetpack Compose, Material 3, Ktor y Room.
+        Cryptocurrency trading simulation App for academic purposes. Developed with Kotlin Cross-Platform, Jetpack Compose, Material 3, Ktor, and Room.
       </a>
     </td>
     <td>
-      <a href="https://github.com/sergiomarchado/TheBestDAMKebap" target="_blank">
-        <img src="https://github.com/sergiomarchado/TheBestDAMKebap/blob/master/screenshots/portadathebestdamkebab.png" alt="The Best DAM Kebab" width="300px"/><br>
-        <strong>The Best DAM Kebab</strong><br>
-        Cryptocurrency trading simulation App for academic purposes. Developed with Kotlin Cross-Platform, Jetpack Compose, Material 3, Ktor, and Room.
+      <a href="" target="_blank">
+        <img src="" alt="Soon" width="300px"/><br>
+        <strong>Soon</strong><br>
+        No info for now.!
       </a>
     </td>
   </tr>
