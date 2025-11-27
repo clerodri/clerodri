@@ -3,9 +3,8 @@
 
 <div align="center">
 <p align="center">
-  <em>💻 Desarrollo de Aplicaciones Multiplataforma<br>
-  📱 Android Developer <br> 
-	  FullStack Developer.</em>
+  <em>💻 FullStack Developer<br>
+  📱 Android Developer<br></em>
 </p>
 <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clerodri&layout=compact&langs_count=8&theme=algolia"/>
 </div>
@@ -20,15 +19,28 @@
   <strong>I'm always open to new opportunities and collaborations!</strong> 🚀
 </p>
 
-<h2>🌟 Sobre Mí (Español)</h2>
+## 🌟 About Me
 
-<p>
-  ¡Hola y bienvenido/a! Me alegra que estés aquí 😄— permíteme presentarme.<br><br>
-  Soy un desarrollador Android junior de Madrid (España), centrado en crear aplicaciones móviles modernas y atractivas.<br><br>
-  Me encanta trabajar con tecnologías Android actuales para ofrecer experiencias de usuario fluidas y atractivas.<br><br>
-  <strong>¡Siempre abierto a nuevas oportunidades y colaboraciones!</strong> 🚀
-</p>
+Hello and welcome! I'm glad you're here 😄— let me introduce myself.
 
+I'm **Ronaldo Rodriguez**, a Full Stack & Mobile Developer from Ecuador 🇪🇨, passionate about building innovative software solutions across different domains.
+
+I love working with modern technologies to create seamless experiences—whether it's frontend interfaces, robust backend systems, or native mobile applications. When I'm not coding, you'll probably find me playing Dota 2 🎮 or exploring electronics projects.
+
+I thrive on challenges and never shy away from complex projects. My philosophy is simple: **if it can be built with code, I'm up for the challenge!**
+
+**Always open to new opportunities, collaborations, and exciting projects!** 🚀
+## 🌟 Sobre Mí
+
+¡Hola y bienvenido/a! Me alegra que estés aquí 😄— permíteme presentarme.
+
+Soy **Ronaldo Rodriguez**, Full Stack & Mobile Developer de Ecuador 🇪🇨, apasionado por crear soluciones de software innovadoras en diferentes áreas.
+
+Me encanta trabajar con tecnologías modernas para crear experiencias fluidas—ya sea interfaces frontend, sistemas backend robustos o aplicaciones móviles nativas. Cuando no estoy programando, probablemente me encuentres jugando Dota 2 🎮 o explorando proyectos de electrónica.
+
+Me apasionan los desafíos y nunca le huyo a proyectos complejos. Mi filosofía es simple: **¡si se puede construir con código, acepto el reto!**
+
+**¡Siempre abierto a nuevas oportunidades, colaboraciones y proyectos emocionantes!** 🚀
 
 
 ## 🚀 Proyectos Personales 
@@ -36,34 +48,34 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/sergiomarchado/GuiaDeViajes_Android_GPT" target="_blank">
-        <img src="https://github.com/sergiomarchado/GuiaDeViajes_Android_GPT/blob/master/screenshots/ic_petexplorer_portfolio.png" alt="Pet Explorer" width="300px"/><br>
-        <strong>PET EXPLORER</strong><br>
-        App Android con Jetpack Compose, Google Maps y ChatGPT API
+      <a href="https://github.com/clerodri/KindMoney" target="_blank">
+        <img src="" alt="Kind Money" width="300px"/><br>
+        <strong>Kind Money</strong><br>
+       App de simulación de trading de criptomonedas con fines académicos. Desarrollada con Kotlin Multiplatform, Jetpack Compose, Material 3, Ktor y Room.
       </a>
     </td>
     <td>
       <a href="https://github.com/sergiomarchado/TheBestDAMKebap" target="_blank">
         <img src="https://github.com/sergiomarchado/TheBestDAMKebap/blob/master/screenshots/portadathebestdamkebab.png" alt="The Best DAM Kebab" width="300px"/><br>
         <strong>The Best DAM Kebab</strong><br>
-        App de comida a domicilio muestrario para animar a comercios locales a implementar soluciones nativas en Android.
+        Cryptocurrency trading simulation App for academic purposes. Developed with Kotlin Cross-Platform, Jetpack Compose, Material 3, Ktor, and Room.
       </a>
     </td>
   </tr>
 
   <tr>
   <td>
-    <a href="https://github.com/sergiomarchado/FlyCheck" target="_blank">
-      <img src="https://www.oracle.com/img/tech/cb88-java-logo-001.jpg" alt="Minicore Bank" width="300px"/><br>
-      <strong>MiniCoreBank API</strong><br>
-      API REST de núcleo bancario ligero (mini core) desarrollada en Java & Spring Boot. Gestiona clientes y cuentas, registra movimientos en un libro mayor (ledger) y calcula el saldo a partir de los asientos, con validaciones, manejo uniforme de errores y documentación OpenAPI.
+    <a href="https://github.com/clerodri/MQespol" target="_blank">
+      <img src="" alt="MQespol" width="300px"/><br>
+      <strong>MQespol</strong><br>
+       MQTT App, We can recieve data from devices IoT, store and visualize it.
     </a>
   </td>
   <td>
-      <a href="https://github.com/sergiomarchado/spring-jwt-auth-api" target="_blank">
-        <img src="https://img.youtube.com/vi/vFPjKX565T4/0.jpg" alt="ShareList API" width="300px"/><br>
-        <strong>ShareList API</strong><br>
-        API REST con autenticación JWT, validaciones y estructura limpia con Spring Boot
+      <a href="https://github.com/clerodri/Binnacle" target="_blank">
+        <img src="" alt="Binnacle" width="300px"/><br>
+        <strong>Binnacle</strong><br>
+        Binnacle is a modern mobile application built with Jetpack Compose for security management in gated communities.
       </a>
     </td>
 </tr>
@@ -71,21 +83,9 @@
 
 ---
 
-
 ---
 
 <h2> My Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"></h2>
-
-<p>
-  Here’s a quick look at the languages, tools, and technologies I use in my daily work as a developer.<br>
-  I love exploring new frameworks and always keep an eye out for the next big thing! 😊
-</p>
-
-<p>
-  Aquí tienes un vistazo rápido a los lenguajes, herramientas y tecnologías que uso en mi día a día como desarrollador.<br>
-  ¡Me encanta explorar nuevos frameworks y estar al tanto de lo último en el sector! 😊
-</p>
-
 
 <h3>💻 Programming Language </h3>
 <div style="overflow-x: auto; white-space: nowrap;">
@@ -203,7 +203,7 @@
     <img src="https://img.shields.io/badge/Contact-email-blue?style=flat-square" alt="Email">
   </a>
   &nbsp;•&nbsp;
-  <a href="www.linkedin.com/in/clerodri" target="_blank">
+  <a href="[www.linkedin.com/in/clerodri](https://www.linkedin.com/in/clerodri/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
   </a>
 </p>
