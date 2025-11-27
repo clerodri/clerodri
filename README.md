@@ -12,13 +12,6 @@
 <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 <hr>
 
-<p>
-  Hello and welcome! I'm excited to have you here 😄— let me introduce myself.<br><br>
-  I'm a Junior Android Developer based in Madrid (Spain), focused on creating impactful and user-friendly mobile applications.<br><br>
-  I love working with modern Android technologies to deliver seamless and delightful user experiences.<br><br>
-  <strong>I'm always open to new opportunities and collaborations!</strong> 🚀
-</p>
-
 ## 🌟 About Me
 
 Hello and welcome! I'm glad you're here 😄— let me introduce myself.
