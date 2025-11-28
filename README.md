@@ -49,9 +49,9 @@ Me apasionan los desafíos y nunca le huyo a proyectos complejos. Mi filosofía 
 
 ### 🖥️ Backend Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Coming Soon** | Backend project in development | TBD |
+| Project                 | Description                                                                                         | Tech Stack                                                                 |
+|-------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| **[Binnacle Backend](https://github.com/clerodri/binnacle-showme-backend)**     | Modular backend system for managing security patrols, incident reports, and guard operations. Built using clean architecture, DDD, and Spring Modulith. | Java 21 · Spring Boot 3.5 · Spring Modulith · PostgreSQL · JWT · AWS S3/SNS · Spring Security · JPA · Flyway |
 
 ### 🌐 Frontend Projects
 
